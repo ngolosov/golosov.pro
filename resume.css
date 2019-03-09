@@ -20,6 +20,20 @@ body
    margin: 0;
    text-align: center;
 }
+#wb_Text7 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text7 div
+{
+   text-align: left;
+   white-space: nowrap;
+}
 #Layer1
 {
    background-color: #FBFBFB;
@@ -162,20 +176,6 @@ body
    background-color: #FBFBFB;
    background-image: none;
    box-shadow: 0px 0px 5px #000000;
-}
-#wb_Text7 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text7 div
-{
-   text-align: left;
-   white-space: nowrap;
 }
 #Button3
 {
