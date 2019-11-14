@@ -230,7 +230,7 @@ body
    text-align: center;
    vertical-align: middle;
    width: 23.7%;
-   height: 19.7%;
+   height: 16.43%;
    font-size: 0;
 }
 #Table1 .cell1
@@ -241,7 +241,7 @@ body
    text-align: left;
    vertical-align: middle;
    width: 76.19%;
-   height: 19.7%;
+   height: 16.43%;
 }
 #Table1 .cell2
 {
@@ -251,7 +251,7 @@ body
    text-align: left;
    vertical-align: top;
    width: 23.7%;
-   height: 19.7%;
+   height: 16.43%;
    font-size: 0;
 }
 #wb_Image4
@@ -341,4 +341,19 @@ body
 #wb_Text9 div
 {
    text-align: left;
+}
+#wb_Image9
+{
+   margin: 0;
+   vertical-align: top;
+}
+#Image9
+{
+   border: 0px solid #000000;
+   box-sizing: border-box;
+   padding: 0;
+   display: inline-block;
+   width: 134px;
+   height: 55px;
+   vertical-align: top;
 }
